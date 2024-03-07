@@ -1,0 +1,10 @@
+line-bot-sdk
+aiolinebot
+emoji
+uvicorn
+fastapi
+python-dotenv
+selenium
+bs4
+pandas
+datetime
